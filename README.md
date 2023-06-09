@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-
-<img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag1008&label=Profile%20views&color=0e75b6&style=flat" alt="anurag1008" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag1008" alt="anurag1008" /></a> </p>
