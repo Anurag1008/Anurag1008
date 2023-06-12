@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag1008&label=Profile%20views&color=0e75b6&style=flat" alt="anurag1008" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag1008" alt="anurag1008" /></a> </p>
 
 - 🔭 I’m currently working on **Chess_Engine**
 
@@ -16,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <b>Leetcode :</b>
     <a href="https://www.leetcode.com/Anurag1008" target="blank"> Mr_professor </a>
 </p>
 
