@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anurag</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A web developer with a passion for creating innovative and user-friendly web solutions. I have developed a strong foundation in front-end and back-end development, along with a deep understanding of modern web technologies.</h3>
 
 - 🔭 I’m currently working on **Chess_Engine**
 
