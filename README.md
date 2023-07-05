@@ -15,6 +15,8 @@
 <p align="left">
     <b>Leetcode :</b>
     <a href="https://www.leetcode.com/Anurag1008" target="blank"> Mr_professor </a>
+    <b>Geeks of Geeks :</b>
+    <a href="https://auth.geeksforgeeks.org/user/julyanurag" target="blank"> Anurag1008 </a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
